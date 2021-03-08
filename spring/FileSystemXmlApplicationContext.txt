@@ -1,0 +1,25 @@
+- FileSystemXmlApplicationContext
+    - AbstractXmlApplicationContext
+        - AbstractRefreshableConfigApplicationContext
+            - BeanNameAware
+                - Aware
+            - InitializingBean
+            - AbstractRefreshableApplicationContext
+                - AbstractApplicationContext
+                    - ConfigurableApplicationContext
+                        - Lifecycle
+                        - Closeable
+                            - AutoCloseable
+                        - ApplicationContext
+                            - ListableBeanFactory
+                                - BeanFactory
+                            - HierarchicalBeanFactory
+                                - BeanFactory
+                            - MessageSource
+                            - ApplicationEventPubliser
+                                - FunctionalInterface
+                            - ResourcePatternResolver
+                                - ResourceLoader
+                            - EnvironmentCapable
+                    - DefaultResourceLoader
+                        - ResourceLoader
