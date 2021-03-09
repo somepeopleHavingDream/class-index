@@ -1,0 +1,27 @@
+- DefaultListableBeanFactory
+    - Serializable
+    - ConfigurableListableBeanFactory
+        - ListableBeanFactory
+            - BeanFactory
+        - ConfigurableBeanFactory
+            - HierarchicalBeanFactory
+                - BeanFactory
+            - SingletonBeanRegistry
+        - AutowireCapableBeanFactory
+            - BeanFactory
+    - AbstractAutowireCapableBeanFactory
+        - AutowireCapableBeanFactory
+            - BeanFactory
+        - AbstractBeanFactory
+            - ConfigurableBeanFactory
+                - HierarchicalBeanFactory
+                    - BeanFactory
+                - SingletonBeanRegistry
+            - FactoryBeanRegistrySupport
+                - DefaultSingletonBeanRegistry
+                    - SingletonBeanRegistry
+                    - SimpleAliasRegistry
+                        - AliasRegistry
+    - BeanDefinitionRegistry
+        - AliasRegistry
+    - SuppressWarnings
