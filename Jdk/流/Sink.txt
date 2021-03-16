@@ -1,0 +1,3 @@
+- Sink
+    - Consumer
+        - FuncationalInterface
