@@ -1,0 +1,4 @@
+- String
+    - Serializable
+    - Comparable
+    - CharSequence

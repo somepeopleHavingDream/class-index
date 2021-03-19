@@ -1,0 +1,6 @@
+- StringBuffer
+    - AbstractStringBuilder
+        - Appendable
+        - CharSequence
+    - CharSequence
+    - Serializable
