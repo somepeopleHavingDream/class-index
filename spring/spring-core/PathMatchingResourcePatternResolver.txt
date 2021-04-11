@@ -1,0 +1,3 @@
+- PathMatchingResourcePatternResolver
+    - ResourcePatternResolver
+        - ResourceLoader
