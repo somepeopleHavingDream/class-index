@@ -1,0 +1,5 @@
+- UrlResource
+    - AbstractFileResolvingResource
+        - AbstractResource
+            - Resource
+                - InputStreamSource

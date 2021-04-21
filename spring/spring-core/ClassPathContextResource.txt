@@ -1,0 +1,9 @@
+- ClassPathContextResource
+    - ClassPathResource
+        - AbstractFileResolvingResource
+            - AbstractResource
+                - Resource
+                    - InputStreamSource
+    - ContextResource
+        - Resource
+            - InputStreamSource
