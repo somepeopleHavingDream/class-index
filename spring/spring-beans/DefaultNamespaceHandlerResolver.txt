@@ -1,0 +1,2 @@
+- DefaultNamespaceHandlerResolver
+    - NamespaceHandlerResolver
