@@ -1,0 +1,5 @@
+- BeanMetadataAttributeAccessor
+    - BeanMetadataElement
+    - AttributeAccessorSupport
+        - AttributeAccessor
+        - Serializable
