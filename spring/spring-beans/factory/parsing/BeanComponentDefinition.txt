@@ -1,5 +1,5 @@
 - BeanComponentDefinition
-    - ComponentDefinition
-        - BeanMetadataElement
     - BeanDefinitionHolder
+        - BeanMetadataElement
+    - ComonentDefinition
         - BeanMetadataElement

@@ -1,7 +1,0 @@
-- StandardEnvironment
-    - AbstractEnvironment
-        - ConfigurableEnvironment
-            - Environment
-                - PropertyResolver
-            - ConfigurablePropertyResolver
-                - PropertyResolver

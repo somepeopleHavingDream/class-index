@@ -1,2 +1,2 @@
-- BeanMetadataAttribute
+- BeanDefinitionHolder
     - BeanMetadataElement

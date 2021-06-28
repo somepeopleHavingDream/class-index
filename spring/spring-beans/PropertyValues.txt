@@ -1,7 +1,0 @@
-- PropertyValue
-    - Serializable
-    - BeanMetadataAttributeAccessor
-        - AttributeAccessorSupport
-            - Serializable
-            - AttributeAccessor
-        - BeanMetadataElement

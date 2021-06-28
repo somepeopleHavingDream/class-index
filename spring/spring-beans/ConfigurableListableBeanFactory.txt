@@ -1,9 +1,0 @@
-- ConfigurableListableBeanFactory
-    - ConfigurableBeanFactory
-        - SingletonBeanRegistry
-        - HierarchicalBeanFactory
-            - BeanFactory
-    - ListableBeanFactory
-        - BeanFactory
-    - AutowireCapableBeanFactory
-        - BeanFactory

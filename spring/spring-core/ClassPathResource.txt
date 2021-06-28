@@ -1,5 +1,0 @@
-- ClassPathResource
-    - AbstractFileResolvingResource
-        - AbstractResource
-            - Resource
-                - InputStreamSource
