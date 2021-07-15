@@ -1,4 +1,0 @@
-- StreamShape
-    - Enum
-        - Serializable
-        - Comparable

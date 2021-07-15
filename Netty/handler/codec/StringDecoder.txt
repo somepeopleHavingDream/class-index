@@ -1,0 +1,7 @@
+- StringDecoder
+    - MessageToMessageDecoder<I>
+        - ChannelInboundHandlerAdapter
+            - ChannelHandlerAdapter
+                - ChannelHandler
+            - ChannelInboundHandler
+                - ChannelHandler

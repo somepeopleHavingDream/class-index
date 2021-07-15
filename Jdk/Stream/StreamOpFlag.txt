@@ -1,4 +1,0 @@
-- StreamOpFlag
-    - Enum
-        - Comparable
-        - Serializable

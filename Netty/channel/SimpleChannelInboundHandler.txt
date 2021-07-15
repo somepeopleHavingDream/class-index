@@ -1,0 +1,6 @@
+- SimpleChannelInboundHandler<I>
+    - ChannelInboundHandlerAdapter
+        - ChannelHandlerAdapter
+            - ChannelHandler
+        - ChannelInboundHandler
+            - ChannelHandler

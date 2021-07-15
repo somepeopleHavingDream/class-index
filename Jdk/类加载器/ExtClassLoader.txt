@@ -1,6 +1,0 @@
-- ExtClassLoader
-    - URLClassLoader
-        - SecureClassLoader
-            - ClassLoader
-        - Closeable
-            - AutoCloseable

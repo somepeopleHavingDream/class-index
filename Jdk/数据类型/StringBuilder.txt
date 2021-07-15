@@ -1,6 +1,0 @@
-- StringBuilder
-    - AbstractStringBuilder
-        - Appendable
-        - CharSequence
-    - CharSequence
-    - Serializable

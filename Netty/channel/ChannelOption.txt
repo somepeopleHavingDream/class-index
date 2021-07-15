@@ -1,0 +1,4 @@
+- ChannelOption<T>
+    - AbstractConstant<T>
+        - Constant<T>
+            - Comparable<T>

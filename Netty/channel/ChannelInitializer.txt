@@ -1,0 +1,7 @@
+- ChannelInitializer<C>
+    - ChannelInboundHandlerAdapter
+        - ChannelInboundHandler
+            - ChannelHandler
+        - ChannelHandlerAdapter
+            - ChannelHandler
+    - Channel

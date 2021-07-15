@@ -1,8 +1,0 @@
-- ReferencePipeline
-    - AbstractPipeline
-        - PipelineHelper
-        - BaseStream
-            - AutoCloseable
-    - Stream
-        - BaseStream
-            - AutoCloseable
