@@ -1,0 +1,6 @@
+- SocketChannel
+    - DuplexChannel
+        - Channel
+            - AttributeMap
+            - ChannelOutboundInvoker
+            - Comparable<T>
