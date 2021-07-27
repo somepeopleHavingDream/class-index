@@ -1,0 +1,4 @@
+- Connection
+    - Closeable
+        - AutoCloseable
+    - ShutdownNotififier

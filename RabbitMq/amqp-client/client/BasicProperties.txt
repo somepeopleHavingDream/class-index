@@ -1,0 +1,6 @@
+- BasicProperties
+    - AMQBasicProperties
+        - BasicProperties
+        - AMQContentHeader
+            - ContentHeader
+                - Cloneable
