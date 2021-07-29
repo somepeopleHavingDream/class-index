@@ -1,0 +1,13 @@
+- AbstractAutowireCapableBeanFactory
+    - AutowireCapableBeanFactory
+        - BeanFactory
+    - AbstractBeanFactory
+        - ConfigurableBeanFactory
+            - HierarchicalBeanFactory
+                - BeanFactory
+            - SingletonBeanRegistry
+        - FactoryBeanRegistrySupport
+            - DefaultSingletonBeanRegistry
+                - SingletonBeanRegistry
+                - SimpleAliasRegistry
+                    - AliasRegistry
