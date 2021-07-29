@@ -1,0 +1,11 @@
+- RootBeanDefinition
+    - AbstractBeanDefinition
+        - BeanDefinition
+            - AttributeAccessor
+            - BeanMetadataElement
+        - BeanMetadataAttributeAccessor
+            - BeanMetadataElement
+            - AttributeAccessorSupport
+                - AttributeAccessor
+                - Serializable
+        - Cloneable

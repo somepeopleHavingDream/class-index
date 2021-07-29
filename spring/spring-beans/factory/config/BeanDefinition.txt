@@ -1,0 +1,3 @@
+- BeanDefinition
+    - BeanMetadataElement
+    - AttributeAccessor

@@ -1,0 +1,2 @@
+- ResourceEditorRegistrar
+    - PropertyEditorRegistrar
