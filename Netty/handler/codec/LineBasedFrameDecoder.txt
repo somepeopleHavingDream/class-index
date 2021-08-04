@@ -1,0 +1,7 @@
+- LineBasedFrameDecoder
+    - ByteToMessageDecoder
+        - ChannelInboundHandlerAdapter
+            - ChannelInboundHandler
+                - ChannelHandler
+            - ChannelHandlerAdapter
+                - ChannelHandler
