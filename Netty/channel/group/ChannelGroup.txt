@@ -1,0 +1,5 @@
+- ChannelGroup
+    - Set<E>
+        - Collection<E>
+            - Iterable<T>
+    - Comparable<T>
