@@ -1,0 +1,5 @@
+- InputStreamReader
+    - Reader
+        - Closeable
+            - AutoCloseable
+        - Readable

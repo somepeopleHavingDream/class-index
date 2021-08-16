@@ -1,0 +1,4 @@
+- ConsumeConcurrentlyStatus
+    - Enum<E>
+        - Comparable<T>
+        - Serializable
