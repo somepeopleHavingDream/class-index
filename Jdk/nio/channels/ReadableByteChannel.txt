@@ -1,0 +1,4 @@
+- ReadableByteChannel
+    - Channel
+        - Closeable
+            - AutoCloseable
