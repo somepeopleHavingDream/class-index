@@ -1,0 +1,9 @@
+- IdleStateHandler
+    - ChannelDuplexHandler
+        - ChannelOutboundHandler
+            - ChannelHandler
+        - ChannelInboundHandlerAdapter
+            - ChannelInboundHandler
+                - ChannelHandler
+            - ChannelHandlerAdapter
+                - ChannelHandler
